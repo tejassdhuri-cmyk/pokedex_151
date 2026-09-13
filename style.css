@@ -1,0 +1,45 @@
+
+.st-key-chkbtn button{
+        background-color: hsl(120, 100%, 55%);
+}
+
+.st-key-pokinput input{
+        border: 2px solid yellow;
+        border-radius: 3px;
+}
+
+.st-key-entry_contain{
+        background-color: beige;
+        color:black;
+}
+
+.st-key-catch{
+        background-color: hsl(120, 100%, 75%);
+        color: black;
+}
+
+.st-key-grow{
+        background-color: azure;
+        color: black;
+}
+
+.st-key-p_ability{
+        background-color: hsl(39, 100%, 45%);
+        color: black;
+}
+.st-key-h_w_contain{
+        background-color: hsl(60, 100%, 65%);
+        color: black;
+}
+.st-key-gender_contain{
+        background-color: hsl(0, 0%, 70%);
+        color: black;
+}
+.st-key-egg_cycle{
+        background-color: hsl(160, 100%, 80%);
+        color: black;
+}
+.st-key-base_happ{
+        background-color: hsl(160, 100%, 80%);
+        color: black;
+}
